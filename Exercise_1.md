@@ -30,4 +30,4 @@
 - Handle any errors or exceptions gracefully.
 - Comment your code to explain your logic and changes.
 
-**Note:** This exercise will give you hands-on experience with constructors, method overriding, static methods, interfaces, and basic exception handling in Java. It will also help you understand the concept of inheritance and how child classes can extend the functionality of parent classes.
+
