@@ -16,10 +16,6 @@
 - **Add a static method** in the `Book` class, named `comparePages`, that takes two `Book` objects and returns the one with more pages.
 - Test this method in the `Main` class with different `Book` and `Novel` objects.
 
-## Task 5: Adding an Interface
-- **Create an interface** called `Readable` with a method `read()`.
-- Implement this interface in the `Book` class, where `read()` simply prints a message like "Reading [title] by [author]".
-
 ## Bonus Task: Adding Exception Handling
 - In the setters for `pages`, add a check to ensure the number of pages is positive. If not, throw an `IllegalArgumentException`.
 - Modify the `Main` class to handle this exception.
@@ -30,4 +26,4 @@
 - Handle any errors or exceptions gracefully.
 - Comment your code to explain your logic and changes.
 
-
+**Note:** This exercise will give you hands-on experience with constructors, method overriding, static methods, and basic exception handling in Java. It will also help you understand the concept of inheritance and how child classes can extend the functionality of parent classes.
